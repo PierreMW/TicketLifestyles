@@ -33,7 +33,14 @@ The Support Ticket System is created for customers or team memembers that have a
 
 Agents can see active tickets in the agent panel. Managers will assign high-priority tickets to the right agents. Jessica sent the ticket regarding an issue and Peter was able to receive because it was in his department. This is why SLA's are highly important as well.
 
-![image](https://github.com/user-attachments/assets/571ba5a3-df8f-46ef-ac98-21f8df9103e0)
+![image](https://github.com/user-attachments/assets/2e9148e3-4d6a-4b05-b635-0a4711c132a2)
+
+Not in all cases but some customers can choose their own SLA plans.The ticket is marked as high because of the amount of people it affects. The SLA plan is Sev-A because so.
+
+![image](https://github.com/user-attachments/assets/3873d407-2ade-478c-bf71-90f35b901533)
+![image](https://github.com/user-attachments/assets/23cbf829-6e51-4a33-a5f0-d85c1d77c3b4)
+
+The main reason for the issue was that the system required a reboot to function properly. After identifying and resolving the problem by restarting the system, Peter marked the ticket as resolved from the agent sides. He also added a detailed internal note within the ticket to document the action taken and to provide context for future reference or follow-up.
 
 
 
